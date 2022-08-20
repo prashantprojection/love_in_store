@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+
+TextEditingController nameController = TextEditingController();
+TextEditingController dobController = TextEditingController();
+TextEditingController anniversaryDateController = TextEditingController();
+TextEditingController fNameController = TextEditingController();
+TextEditingController aadhaarNumberController = TextEditingController();
+TextEditingController panNumberController = TextEditingController();
+TextEditingController currentAddressController = TextEditingController();
+TextEditingController stateController = TextEditingController();
+TextEditingController cityController = TextEditingController();
+TextEditingController pinCodeController = TextEditingController();
+TextEditingController emailIDController = TextEditingController();
+TextEditingController mobileNumberController = TextEditingController();
+TextEditingController landlineNumberController = TextEditingController();
+TextEditingController emergencyContactPersonController = TextEditingController();
+TextEditingController emergencyContactNumberController = TextEditingController();
+TextEditingController bankNameController = TextEditingController();
+TextEditingController ifscCodeController = TextEditingController();
+TextEditingController accountNumberController = TextEditingController();
+TextEditingController accountHolderNameController = TextEditingController();
